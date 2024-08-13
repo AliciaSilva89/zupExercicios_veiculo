@@ -2,4 +2,5 @@
 Exercício dos veículos
 
 
-![Diagrama UML](https://github.com/user-attachments/assets/f74848a3-04b4-44e5-bce4-dbe7943ca880)
+![uml](https://github.com/user-attachments/assets/7cc9e21b-9c9c-49db-bf61-a8ec8c178185)
+
